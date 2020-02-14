@@ -5,5 +5,6 @@ public class test01 {
         System.out.println("刘文海");
         System.out.println("liuwenhai");
         System.out.println("真不错");
+        System.out.println("就很棒");
     }
 }
