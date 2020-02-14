@@ -6,5 +6,6 @@ public class test01 {
         System.out.println("liuwenhai");
         System.out.println("真不错");
         System.out.println("就很棒");
+        System.out.println("加油");
     }
 }
